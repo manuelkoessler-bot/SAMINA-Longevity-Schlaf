@@ -327,7 +327,7 @@ Ergänzend integriert das System die **GRAVITAS®-Schrägschlaffunktion**: Eine 
 
 Was nachts im Bett beginnt, lässt sich tagsüber gezielt verstärken. Mit der Marke **SAMINA Recovery** war SAMINA **First Mover im DACH-Raum**: das erste Unternehmen der Region, das Recovery- und Longevity-Technologie konsequent in einem ganzheitlichen Konzept gebündelt und für Endkund:innen zugänglich gemacht hat. Lange bevor Cold Plunge, Rotlicht und Sauerstofftraining im Mainstream ankamen, gab es bei SAMINA bereits aufeinander abgestimmte Anwendungen aus der modernen Longevity-Forschung:
 
-| Modul | Anwendung | Wirkmechanismus |
+| Anwendung | Was es ist | Wirkmechanismus |
 |---|---|---|
 | **COOL** | Kältekammer / Kryotherapie | Aktiviert Stoffwechsel, reduziert Entzündung |
 | **CHARGE** | Nah-Infrarot-Rotlicht (NIRF) | Stimuliert Zellenergie (ATP), beschleunigt Regeneration |
@@ -339,9 +339,9 @@ Was nachts im Bett beginnt, lässt sich tagsüber gezielt verstärken. Mit der M
 | **HRV** | Herzratenvariabilitäts-Messung | Biofeedback zu Stressregulation und Erholung |
 | **COLD PLASMA** *(NEU)* | „Full Body Charger" | Energetische Zellaufladung |
 
-> **Ein wachsendes Netzwerk für deine Erholung.** Das vollständige Recovery-Erlebnis findest du in den drei **SAMINA Recovery Centern in Bregenz, Frastanz und Pfullendorf**. In weiteren SAMINA Filialen stehen dir **CHARGE** (Nah-Infrarot-Rotlichttherapie) und **TRANSFORM** (Neurorelaxation) zur Verfügung — inklusive persönlicher Beratung durch das geschulte SAMINA Team. **COLD PLASMA** ist exklusiv in Frastanz. Welches Modul in welcher Filiale buchbar ist, siehst du auf **[samina-recovery.com](https://samina-recovery.com/)**.
+> **Ein wachsendes Netzwerk für deine Erholung.** Das vollständige Recovery-Erlebnis findest du in den drei **SAMINA Recovery Centern in Bregenz, Frastanz und Pfullendorf**. In weiteren SAMINA Filialen stehen dir **CHARGE** (Nah-Infrarot-Rotlichttherapie) und **TRANSFORM** (Neurorelaxation) zur Verfügung — inklusive persönlicher Beratung durch das geschulte SAMINA Team. **COLD PLASMA** ist exklusiv in Frastanz. Welche Anwendung in welcher Filiale buchbar ist, siehst du auf **[samina-recovery.com](https://samina-recovery.com/)**.
 
-Die Module sind so konzipiert, dass sie sich kombinieren lassen. Wer sich regelmäßig in einem SAMINA Recovery Center erholt und nachts auf einem SAMINA Schlafsystem regeneriert, deckt damit beide Hebel ab — den größten (Schlaf) und seine tägliche Verstärkung.
+Die Anwendungen sind so konzipiert, dass sie sich kombinieren lassen. Wer sich regelmäßig in einem SAMINA Recovery Center erholt und nachts auf einem SAMINA Schlafsystem regeneriert, deckt damit beide Hebel ab — den größten (Schlaf) und seine tägliche Verstärkung.
 
 ### Die Karl-Hecht-Geschichte: 10 Jahre durch konsequenten Schlaf
 
