@@ -294,11 +294,11 @@ Vier physikalische Faktoren entscheiden über die Qualität deines Schlafplatzes
 
 Wer hier sauber investiert, unterstützt seine nächtliche Regeneration über 2.920 Stunden im Jahr. Nicht punktuell. Über Jahrzehnte.
 
-<a href="https://samina.com/filialen/" class="cta-box cta-secondary">
-  <img src="/filialleiter.png" alt="Persoenliches Schlafcoaching mit SAMINA Filialberater" />
+<a href="https://samina.com/gratis-buch/" class="cta-box cta-secondary">
+  <img src="/guenther-portrait-quad-400x400.webp" alt="Prof. Dr. med. h.c. Guenther W. Amann-Jennson" />
   <div>
-    <p class="cta-title">Persönliches Schlafcoaching in einer SAMINA Filiale</p>
-    <p class="cta-desc">Individuelle Beratung und das BioSleep4™ System vor Ort testen. In 13 Filialen im DACH-Raum.</p>
+    <p class="cta-title">Gratis-Buch: „Einfach gesund schlafen"</p>
+    <p class="cta-desc">Prof. Amann-Jennson fasst 40 Jahre Schlafforschung in einem Buch zusammen. Kostenlos bei SAMINA bestellen.</p>
   </div>
   <span class="cta-arrow">→</span>
 </a>
@@ -322,6 +322,15 @@ Die fünf aufeinander abgestimmten Schichten:
 Ergänzend integriert das System die **GRAVITAS®-Schrägschlaffunktion**: Eine sanfte 3,5°-Neigung fördert Lymphdrainage und Stoffwechsel im Schlaf und unterstützt damit genau die Mechanismen, die für Longevity zählen.
 
 → Alle Details, Konfigurationen und Beratungstermine auf **[samina.com](https://samina.com/)**.
+
+<a href="https://samina.com/filialen/" class="cta-box cta-secondary">
+  <img src="/filialleiter.png" alt="Persoenliches Schlafcoaching mit SAMINA Filialberater" />
+  <div>
+    <p class="cta-title">Persönliches Schlafcoaching in einer SAMINA Filiale</p>
+    <p class="cta-desc">Lass dich individuell beraten und teste das vollständige SAMINA Schlafsystem vor Ort. In 13 Filialen im DACH-Raum.</p>
+  </div>
+  <span class="cta-arrow">→</span>
+</a>
 
 ### SAMINA Recovery: Longevity-Technologie in der Filiale
 
@@ -419,7 +428,7 @@ Du musst kein 200.000-Euro-Protokoll fahren. Du brauchst fünf Schlafgewohnheite
   <img src="/filialleiter.png" alt="Persoenliches Schlafcoaching mit SAMINA Filialberater" />
   <div>
     <p class="cta-title">Persönliches Schlafcoaching in einer SAMINA Filiale</p>
-    <p class="cta-desc">Individuelle Beratung und das BioSleep4™ System vor Ort testen. In 13 Filialen im DACH-Raum.</p>
+    <p class="cta-desc">Lass dich individuell beraten und teste das vollständige SAMINA Schlafsystem vor Ort. In 13 Filialen im DACH-Raum.</p>
   </div>
   <span class="cta-arrow">→</span>
 </a>
