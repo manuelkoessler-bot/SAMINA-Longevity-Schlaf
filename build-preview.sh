@@ -2,18 +2,67 @@
 set -e
 cd "$(dirname "$0")"
 
+# Frontmatter-Werte parsen
+fm_value() { awk -F': "' -v k="$1" '$1==k {sub(/"$/,"",$2); print $2; exit}' samina-longevity-blog.md; }
+TITLE=$(fm_value "title")
+DESC=$(fm_value "description")
+OG_IMG=$(fm_value "ogImage")
+OG_IMG_ALT=$(fm_value "coverImageAlt")
+CANONICAL=$(fm_value "canonical")
+AUTHOR=$(fm_value "author")
+DATE=$(fm_value "date")
+CATEGORY=$(fm_value "category")
+# Relativer Pfad fuer Pages, absoluter Pfad fuer Production
+OG_IMG_REL="${OG_IMG#/}"
+PAGES_BASE="https://manuelkoessler-bot.github.io/SAMINA-Longevity-Schlaf"
+OG_IMG_ABS="$PAGES_BASE/$OG_IMG_REL"
+
 BODY=$(awk 'BEGIN{fm=0} /^---[[:space:]]*$/{fm++; next} fm<2{next} {print}' samina-longevity-blog.md \
   | npx -y -q marked \
   | sed -E 's|<(h[1-6])>(.*) \{#([a-z0-9_-]+)\}</h[1-6]>|<\1 id="\3">\2</\1>|g' \
   | sed -E 's|src="/([^"]+)"|src="\1"|g')
 
-cat > samina-longevity-blog.html <<'HTML_HEAD'
+cat > samina-longevity-blog.html <<HTML_HEAD
 <!DOCTYPE html>
 <html lang="de">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Longevity beginnt im Schlaf - SAMINA Vorschau</title>
+<title>$TITLE</title>
+<meta name="description" content="$DESC">
+<meta name="author" content="$AUTHOR">
+<link rel="canonical" href="$CANONICAL">
+
+<!-- Open Graph (Facebook, LinkedIn, WhatsApp, Slack) -->
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="SAMINA">
+<meta property="og:locale" content="de_AT">
+<meta property="og:title" content="$TITLE">
+<meta property="og:description" content="$DESC">
+<meta property="og:url" content="$CANONICAL">
+<meta property="og:image" content="$OG_IMG_ABS">
+<meta property="og:image:secure_url" content="$OG_IMG_ABS">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="2730">
+<meta property="og:image:height" content="1536">
+<meta property="og:image:alt" content="$OG_IMG_ALT">
+<meta property="article:author" content="$AUTHOR">
+<meta property="article:published_time" content="$DATE">
+<meta property="article:section" content="$CATEGORY">
+<meta property="article:tag" content="Longevity">
+<meta property="article:tag" content="Schlaf">
+<meta property="article:tag" content="Anti-Aging">
+
+<!-- Twitter / X -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@samina_schlaf">
+<meta name="twitter:title" content="$TITLE">
+<meta name="twitter:description" content="$DESC">
+<meta name="twitter:image" content="$OG_IMG_ABS">
+<meta name="twitter:image:alt" content="$OG_IMG_ALT">
+
+<!-- Theme -->
+<meta name="theme-color" content="#2d5a3d">
 <style>
   :root{
     --green:#2d5a3d;
