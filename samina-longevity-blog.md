@@ -339,7 +339,7 @@ Was nachts im Bett beginnt, lässt sich tagsüber gezielt verstärken. Mit der M
 | **HRV** | Herzratenvariabilitäts-Messung | Biofeedback zu Stressregulation und Erholung |
 | **COLD PLASMA** *(NEU)* | „Full Body Charger" | Energetische Zellaufladung |
 
-> **Hinweis zur Verfügbarkeit:** Nicht alle Anwendungen sind in jeder SAMINA Filiale verfügbar. Die volle Bandbreite findest du in den drei **SAMINA Recovery Centern in Frastanz, Bregenz und Pfullendorf**. In allen weiteren Filialen ist standardmäßig **CHARGE** (Nah-Infrarot-Rotlicht) verfügbar. **COLD PLASMA** ist exklusiv in Frastanz. Welches Modul in welcher Filiale buchbar ist, siehst du auf **[samina-recovery.com](https://samina-recovery.com/)**.
+> **Ein wachsendes Netzwerk für deine Erholung.** Das vollständige Recovery-Erlebnis findest du in den drei **SAMINA Recovery Centern in Bregenz, Frastanz und Pfullendorf**. In weiteren SAMINA Filialen stehen dir **CHARGE** (Nah-Infrarot-Rotlichttherapie) und **TRANSFORM** (Neurorelaxation) zur Verfügung — inklusive persönlicher Beratung durch das geschulte SAMINA Team. **COLD PLASMA** ist exklusiv in Frastanz. Welches Modul in welcher Filiale buchbar ist, siehst du auf **[samina-recovery.com](https://samina-recovery.com/)**.
 
 Die Module sind so konzipiert, dass sie sich kombinieren lassen. Wer regelmäßig in einem Recovery Center trainiert und nachts auf einem SAMINA Schlafsystem regeneriert, deckt damit beide Hebel ab — den größten (Schlaf) und seine tägliche Verstärkung.
 
