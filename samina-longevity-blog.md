@@ -311,12 +311,11 @@ SAMINA ist ein österreichisches Familienunternehmen, das seit 1989 zwei Bereich
 
 Ein SAMINA Schlafsystem ist kein einfaches Bett, sondern ein vollständig aufeinander abgestimmtes System aus einem orthopädischen Lamellenrost, mehrlagigen Lagen aus Naturkautschuk und Schafschurwolle, einer Erdungsauflage, einem passenden Kissensortiment (abgestimmt auf die jeweilige Nacken-Kopflinie und Schlafposition für Bauch-, Rücken- und Seitenschläfer) und einem Sortiment an Bettdecken, ideal für jedes Schlafklima. Zudem integriert ein SAMINA Schlafsystem eine Schrägschlaftechnik, um die Durchblutung zu fördern und die Regeneration zu steigern. Das gesamte System wird in Vorarlberg in den österreichischen Alpen handgefertigt und ist konsequent metallfrei. Prof. Amann-Jennson hat darin über vier Jahrzehnte das Konzept des **Bioenergetischen Schlafs®** entwickelt — alle vier physikalischen Faktoren eines gesunden Schlafplatzes wissenschaftlich aufeinander abgestimmt.
 
-Konkret besteht ein SAMINA Schlafsystem aus diesen Komponenten:
-- **Orthopädischer Federholzrahmen** mit individuell einstellbarer Nacken-Kopf-Linie, geeignet für Rücken-, Seiten- und Bauchschläfer — ohne Metall.
-- **Mehrlagige Naturmatratze** aus Naturkautschuk und Schurwolle für echte Druckentlastung statt Punktstützen.
-- **Lokosana®-Erdungsauflage**, ein CE-zertifiziertes Medizinprodukt, das den Körper sanft mit dem Erdpotenzial verbindet.
-- **Gravitas®-Schrägschlaftechnik** mit sanfter 3,5°-Neigung zur Unterstützung der nächtlichen Mikrozirkulation und der Gehirn-Drainage.
-- **Naturmaterialien** (Schurwolle, Naturkautschuk, Zirbenholz) — ohne Metallfedern, ohne synthetische Schäume, handgefertigt in Vorarlberg.
+Konkret bewirkt ein SAMINA Schlafsystem vier Dinge:
+- **Orthopädisch richtig gelagerte Wirbelsäule** und individuell ausgerichtete Nacken-Kopf-Linie — ideal für Bauch-, Rücken- und Seitenschläfer.
+- **Optimale Durchblutung** durch echte Druckentlastung.
+- **Hohe Regeneration** durch integrierte Erdungs- und Schrägschlaftechnik.
+- **Ideales Bettklima** — ob du kühl oder warm schläfst.
 
 → Alle Details, Konfigurationen und Beratungstermine auf **[samina.com](https://samina.com/)**.
 
