@@ -1,6 +1,6 @@
 ---
 title: "Longevity beginnt im Schlaf: 90 % entscheiden sich nachts"
-description: "Longevity 2026: 90 % gesunden Alterns entscheiden sich nachts. Was die Schlafforschung sagt, was deinen Schlaf raubt und wie SAMINA deine Regeneration unterstützt."
+description: "Longevity 2026: 90 % gesunden Alterns entscheiden sich nachts. Was die Schlafforschung sagt, was Schlaf raubt und wie SAMINA Regeneration stärkt."
 slug: longevity-beginnt-im-schlaf
 coverImage: "/frau-morgens.png"
 coverImageAlt: "Frau mit klaren Augen und ruhigem Gesicht im hellen Morgenlicht, Sinnbild für gesundes Altern und erholten Schlaf"
@@ -474,7 +474,7 @@ Du musst kein 200.000-Euro-Protokoll fahren. Du brauchst fünf Schlafgewohnheite
       "@type": "BlogPosting",
       "@id": "https://samina.com/longevity-beginnt-im-schlaf/#article",
       "headline": "Longevity beginnt im Schlaf: 90 % entscheiden sich nachts",
-      "description": "Longevity 2026: 90 % gesunden Alterns entscheiden sich nachts. Was die Schlafforschung sagt, was deinen Schlaf raubt und wie SAMINA deine Regeneration unterstützt.",
+      "description": "Longevity 2026: 90 % gesunden Alterns entscheiden sich nachts. Was die Schlafforschung sagt, was Schlaf raubt und wie SAMINA Regeneration stärkt.",
       "image": "https://samina.com/frau-morgens.png",
       "datePublished": "2026-05-21",
       "dateModified": "2026-05-21",
