@@ -259,14 +259,16 @@ Wer hier sauber investiert, betreibt Anti-Aging im wörtlichsten Sinn. Nicht fü
 
 ## Warum SAMINA: Longevity-Technologie seit 1989 {#warum-samina}
 
-SAMINA arbeitet seit 1989 daran, was die Longevity-Szene 2026 als neuen Trend feiert. Bioenergetischer Schlaf® heißt das Konzept, das Prof. Amann-Jennson über vier Jahrzehnte entwickelt hat. Es geht darum, alle vier physikalischen Faktoren des Schlafplatzes wissenschaftlich aufeinander abzustimmen, statt nur eine Matratze zu verkaufen.
+SAMINA ist ein österreichisches Familienunternehmen, das seit 1989 **vollständige Schlafsysteme aus Naturmaterialien** entwickelt und herstellt — bestehend aus orthopädischem Lattenrost, mehrlagiger Naturmatratze, Schurwoll-Auflagen, Nackenstützkissen und Bio-Bettdecken. Das gesamte System wird in Vorarlberg in den österreichischen Alpen handgefertigt und ist konsequent metallfrei.
 
-Konkret heißt das:
-- **Orthopädische Wirbelsäulen-Lagerung** mit individuell ausgerichteter Nacken-Kopf-Linie, geeignet für Rücken-, Seiten- und Bauchschläfer.
-- **Optimale Durchblutung** durch echte Druckentlastung statt Punktstützen.
-- **Integrierte Körpererdung** über eine Lokosana®-Auflage, ein CE-zertifiziertes Medizinprodukt, das den Körper sanft mit dem Erdpotenzial verbindet.
-- **Schrägschlaftechnik (Gravitas®)** zur Unterstützung der nächtlichen Mikrozirkulation und der Gehirn-Drainage.
-- **Reine Naturmaterialien**, ohne Metallfedern, in Vorarlberg in den österreichischen Alpen handgefertigt.
+Was SAMINA von klassischen Bettenherstellern unterscheidet: Über vier Jahrzehnte hat Prof. Amann-Jennson mit dem Konzept des **Bioenergetischen Schlafs®** alle vier physikalischen Faktoren eines gesunden Schlafplatzes wissenschaftlich aufeinander abgestimmt. Es geht nicht darum, eine Matratze zu verkaufen, sondern ein komplettes Schlafsystem, das nachweislich die nächtliche Regeneration verbessert.
+
+Konkret besteht ein SAMINA Schlafsystem aus diesen Komponenten:
+- **Orthopädischer Federholzrahmen** mit individuell einstellbarer Nacken-Kopf-Linie, geeignet für Rücken-, Seiten- und Bauchschläfer — ohne Metall.
+- **Mehrlagige Naturmatratze** aus Naturkautschuk und Schurwolle für echte Druckentlastung statt Punktstützen.
+- **Lokosana®-Erdungsauflage**, ein CE-zertifiziertes Medizinprodukt, das den Körper sanft mit dem Erdpotenzial verbindet.
+- **Gravitas®-Schrägschlaftechnik** mit sanfter 3,5°-Neigung zur Unterstützung der nächtlichen Mikrozirkulation und der Gehirn-Drainage.
+- **Naturmaterialien** (Schurwolle, Naturkautschuk, Zirbenholz) — ohne Metallfedern, ohne synthetische Schäume, in Vorarlberg in den österreichischen Alpen handgefertigt.
 
 Im Buch *Einfach gesund schlafen* berichtet Prof. Amann-Jennson von Prof. Karl Hecht, seinem langjährigen Wissenschaftspartner. Hecht nutzte über Jahrzehnte das SAMINA Schlaf-Gesund-Konzept und schlief geerdet und schräg. An seinem 90. Geburtstag lud er alle Gäste zu seinem 100. ein. Seine persönliche Hochrechnung über den Effekt seiner nächtlichen Routine: rund 10 Jahre Lebensverlängerung gegenüber dem statistischen Schnitt. Hecht erreichte tatsächlich ein Alter von 98 Jahren, bevor er nach einem Unfall verstarb.
 
