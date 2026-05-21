@@ -311,13 +311,13 @@ SAMINA ist ein österreichisches Familienunternehmen, das seit 1989 zwei Bereich
 
 Ein SAMINA Schlafsystem ist kein einfaches Bett, sondern ein **5-Schichten-System**, das von Prof. Amann-Jennson über vier Jahrzehnte entwickelt wurde. Jede Schicht erfüllt eine eigene biologische Funktion, und alle Schichten sind aufeinander abgestimmt. Das gesamte System wird in Vorarlberg in den österreichischen Alpen handgefertigt, besteht ausschließlich aus Naturmaterialien (Schafschurwolle, Naturkautschuk in Vita-Talalay-Qualität, Bio-Baumwolle, Eschenholz) und ist konsequent metallfrei und schadstoffgeprüft.
 
-Die fünf aufeinander abgestimmten Schichten von oben nach unten:
+Die fünf aufeinander abgestimmten Schichten:
 
-1. **Kissen und Nackenkissen** — individuelle Abstützung der Nacken-Kopf-Linie, abgestimmt auf Bauch-, Rücken- oder Seitenschläfer.
-2. **Decken und Schafschurwoll-Auflagen** — sorgen für ein perfektes Schlafklima in jeder Jahreszeit, kühl oder warm.
-3. **Naturkautschukmatratze (Vita Talalay)** — passt sich dem Körper an, entlastet Gelenke und fördert die Durchblutung.
-4. **Freischwingender Lamellenrost** — stützt Wirbelsäule und Bandscheiben in orthopädisch korrekter Lagerung.
-5. **Lokosana®-Erdungsauflage** — leitet Elektrostress ab, bringt den Körper in Balance und aktiviert die Regeneration. CE-zertifiziertes Medizinprodukt.
+1. **Kissen und Nackenkissen** — *„Dein Nacken, deine Schlafposition — individuell abgestützt, für entspanntes Liegen."*
+2. **Decken & Schafschurwollauflagen** — *„Hält dich trocken und sorgt für dein perfektes Schlafklima — in jeder Jahreszeit."*
+3. **Naturkautschukmatratze (Vita Talalay)** — *„Passt sich deinem Körper an, entlastet deine Gelenke und fördert deine Durchblutung."*
+4. **Freischwingender Lamellenrost** — *„Unterstützt deine Wirbelsäule, entlastet deine Bandscheiben — für gesunden Schlaf jede Nacht."*
+5. **Lokosana®-Erdungsauflage** — *„Weltweit einzigartig: Lokosana® leitet Elektrostress ab, bringt deinen Körper in Balance und aktiviert deine Regeneration."* Wissenschaftlich fundiert und als Medizinprodukt registriert.
 
 Ergänzend integriert das System die **GRAVITAS®-Schrägschlaffunktion**: Eine sanfte 3,5°-Neigung fördert Lymphdrainage und Stoffwechsel im Schlaf und unterstützt damit genau die Mechanismen, die für Longevity zählen.
 
