@@ -325,7 +325,7 @@ Ergänzend integriert das System die **GRAVITAS®-Schrägschlaffunktion**: Eine 
 
 ### SAMINA Recovery: Longevity-Technologie in der Filiale
 
-Was nachts im Bett beginnt, lässt sich tagsüber gezielt verstärken. In den SAMINA Filialen findest du unter der Marke **SAMINA Recovery** neun aufeinander abgestimmte Anwendungen aus der modernen Longevity-Forschung — die größte Bandbreite an Recovery-Technologie im DACH-Raum unter einem Dach:
+Was nachts im Bett beginnt, lässt sich tagsüber gezielt verstärken. Unter der Marke **SAMINA Recovery** gibt es neun aufeinander abgestimmte Anwendungen aus der modernen Longevity-Forschung:
 
 | Modul | Anwendung | Wirkmechanismus |
 |---|---|---|
@@ -337,11 +337,11 @@ Was nachts im Bett beginnt, lässt sich tagsüber gezielt verstärken. In den SA
 | **MOVE** | Faszientraining | Mobilität, Beweglichkeit, Schmerzreduktion |
 | **BODYSCAN** | 3D-Körperanalyse | Misst sichtbare Veränderungen über Zeit |
 | **HRV** | Herzratenvariabilitäts-Messung | Biofeedback zu Stressregulation und Erholung |
-| **COLD PLASMA** *(NEU)* | „Full Body Charger" (exklusiv in Frastanz) | Energetische Zellaufladung |
+| **COLD PLASMA** *(NEU)* | „Full Body Charger" | Energetische Zellaufladung |
 
-Die Module sind so konzipiert, dass sie sich kombinieren lassen. Wer regelmäßig in der Filiale trainiert und nachts auf einem SAMINA Schlafsystem regeneriert, deckt damit beide Hebel ab — den größten (Schlaf) und seine tägliche Verstärkung.
+> **Hinweis zur Verfügbarkeit:** Nicht alle Anwendungen sind in jeder SAMINA Filiale verfügbar. Die volle Bandbreite findest du in den drei **SAMINA Recovery Centern in Frastanz, Bregenz und Pfullendorf**. In allen weiteren Filialen ist standardmäßig **CHARGE** (Nah-Infrarot-Rotlicht) verfügbar. **COLD PLASMA** ist exklusiv in Frastanz. Welches Modul in welcher Filiale buchbar ist, siehst du auf **[samina-recovery.com](https://samina-recovery.com/)**.
 
-→ Alle Anwendungen, Standorte und Termine auf **[samina-recovery.com](https://samina-recovery.com/)**.
+Die Module sind so konzipiert, dass sie sich kombinieren lassen. Wer regelmäßig in einem Recovery Center trainiert und nachts auf einem SAMINA Schlafsystem regeneriert, deckt damit beide Hebel ab — den größten (Schlaf) und seine tägliche Verstärkung.
 
 ### Die Karl-Hecht-Geschichte: 10 Jahre durch konsequenten Schlaf
 
