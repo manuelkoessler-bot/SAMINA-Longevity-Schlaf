@@ -2,9 +2,9 @@
 title: "Longevity beginnt im Schlaf: 90 % entscheiden sich nachts"
 description: "Longevity 2026: 90 % gesunden Alterns entscheiden sich nachts. Was die Schlafforschung sagt, was deinen Schlaf raubt und wie SAMINA Anti-Aging stärkt."
 slug: longevity-beginnt-im-schlaf
-coverImage: "/frau morgens.png"
+coverImage: "/frau-morgens.png"
 coverImageAlt: "Frau mit klaren Augen und ruhigem Gesicht im hellen Morgenlicht, Sinnbild für gesundes Altern und erholten Schlaf"
-ogImage: "/frau morgens.png"
+ogImage: "/frau-morgens.png"
 date: "2026-05-21"
 lastUpdated: "2026-05-21"
 author: "Philipp Amann"
@@ -18,7 +18,7 @@ canonical: "https://samina.com/longevity-beginnt-im-schlaf/"
 ---
 
 <figure class="hero">
-  <img src="/frau morgens.png" alt="Frau mit klaren Augen und ruhigem Gesicht im hellen Morgenlicht, Sinnbild für gesundes Altern und erholten Schlaf" />
+  <img src="/frau-morgens.png" alt="Frau mit klaren Augen und ruhigem Gesicht im hellen Morgenlicht, Sinnbild für gesundes Altern und erholten Schlaf" />
 </figure>
 
 <nav class="breadcrumb" aria-label="Brotkrumen-Navigation">

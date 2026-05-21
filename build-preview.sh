@@ -4,7 +4,8 @@ cd "$(dirname "$0")"
 
 BODY=$(awk 'BEGIN{fm=0} /^---[[:space:]]*$/{fm++; next} fm<2{next} {print}' samina-longevity-blog.md \
   | npx -y -q marked \
-  | sed -E 's|<(h[1-6])>(.*) \{#([a-z0-9_-]+)\}</h[1-6]>|<\1 id="\3">\2</\1>|g')
+  | sed -E 's|<(h[1-6])>(.*) \{#([a-z0-9_-]+)\}</h[1-6]>|<\1 id="\3">\2</\1>|g' \
+  | sed -E 's|src="/([^"]+)"|src="\1"|g')
 
 cat > samina-longevity-blog.html <<'HTML_HEAD'
 <!DOCTYPE html>
