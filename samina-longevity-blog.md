@@ -150,11 +150,8 @@ Die fünf Faktoren sind verblüffend einfach:
         <stop offset="100%" stop-color="#7a3e3e" stop-opacity="0.02"/>
       </linearGradient>
     </defs>
-
     <text x="20" y="32" font-size="16" font-weight="700" fill="#1a1a1a">Was die fünf gesunden Schlafgewohnheiten bewirken</text>
     <text x="20" y="54" font-size="12" fill="#666">N = 172.321 Erwachsene · US-Kohortenstudie unter Beteiligung der Harvard Medical School (ACC 2023)</text>
-
-    <!-- Tile 1: Männer -->
     <g transform="translate(20,90)">
       <rect width="216" height="220" rx="14" fill="url(#tileGreen)" stroke="#2d5a3d" stroke-opacity="0.18" stroke-width="1.5"/>
       <text x="108" y="38" text-anchor="middle" font-size="11" font-weight="600" letter-spacing="0.08em" fill="#2d5a3d">MÄNNER</text>
@@ -163,14 +160,11 @@ Die fünf Faktoren sind verblüffend einfach:
         <text font-size="54" font-weight="800" fill="#2d5a3d" letter-spacing="-0.02em">+4,7</text>
       </g>
       <text x="108" y="158" text-anchor="middle" font-size="14" font-weight="600" fill="#2d5a3d">Jahre</text>
-      <!-- arrow up -->
       <g transform="translate(108,182)">
         <path d="M0,12 L0,-12 M-7,-5 L0,-12 L7,-5" stroke="#2d5a3d" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
       </g>
       <text x="108" y="210" text-anchor="middle" font-size="10" fill="#888">gegenüber Studienmittel</text>
     </g>
-
-    <!-- Tile 2: Frauen -->
     <g transform="translate(252,90)">
       <rect width="216" height="220" rx="14" fill="url(#tileGreen)" stroke="#2d5a3d" stroke-opacity="0.18" stroke-width="1.5"/>
       <text x="108" y="38" text-anchor="middle" font-size="11" font-weight="600" letter-spacing="0.08em" fill="#2d5a3d">FRAUEN</text>
@@ -184,8 +178,6 @@ Die fünf Faktoren sind verblüffend einfach:
       </g>
       <text x="108" y="210" text-anchor="middle" font-size="10" fill="#888">gegenüber Studienmittel</text>
     </g>
-
-    <!-- Tile 3: Mortalität -->
     <g transform="translate(484,90)">
       <rect width="216" height="220" rx="14" fill="url(#tileRed)" stroke="#7a3e3e" stroke-opacity="0.20" stroke-width="1.5"/>
       <text x="108" y="38" text-anchor="middle" font-size="11" font-weight="600" letter-spacing="0.08em" fill="#7a3e3e">GESAMT-MORTALITÄT</text>
@@ -194,13 +186,11 @@ Die fünf Faktoren sind verblüffend einfach:
         <text font-size="54" font-weight="800" fill="#7a3e3e" letter-spacing="-0.02em">−30</text>
       </g>
       <text x="108" y="158" text-anchor="middle" font-size="14" font-weight="600" fill="#7a3e3e">Prozent</text>
-      <!-- arrow down -->
       <g transform="translate(108,182)">
         <path d="M0,-12 L0,12 M-7,5 L0,12 L7,5" stroke="#7a3e3e" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
       </g>
       <text x="108" y="210" text-anchor="middle" font-size="10" fill="#888">über alle Altersgruppen</text>
     </g>
-
     <text x="360" y="345" text-anchor="middle" font-size="11" fill="#888">Quelle: Li et al., JACC 2023 · American College of Cardiology Annual Scientific Session 2023</text>
   </svg>
   <figcaption style="font-size:0.9rem;color:#666;margin-top:0.75rem;">Studienlage: Wer alle fünf Schlafgewohnheiten konsequent erfüllt, verlängert die statistische Lebenserwartung deutlich und senkt das Sterberisiko um nahezu ein Drittel. Quelle: ACC-Studie, 2023.</figcaption>
