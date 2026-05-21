@@ -325,7 +325,7 @@ Ergänzend integriert das System die **GRAVITAS®-Schrägschlaffunktion**: Eine 
 
 ### SAMINA Recovery: Longevity-Technologie in der Filiale
 
-Was nachts im Bett beginnt, lässt sich tagsüber gezielt verstärken. Unter der Marke **SAMINA Recovery** gibt es neun aufeinander abgestimmte Anwendungen aus der modernen Longevity-Forschung:
+Was nachts im Bett beginnt, lässt sich tagsüber gezielt verstärken. Mit der Marke **SAMINA Recovery** war SAMINA **First Mover im DACH-Raum**: das erste Unternehmen der Region, das Recovery- und Longevity-Technologie konsequent in einem ganzheitlichen Konzept gebündelt und für Endkund:innen zugänglich gemacht hat. Lange bevor Cold Plunge, Rotlicht und Sauerstofftraining im Mainstream ankamen, gab es bei SAMINA bereits aufeinander abgestimmte Anwendungen aus der modernen Longevity-Forschung:
 
 | Modul | Anwendung | Wirkmechanismus |
 |---|---|---|
