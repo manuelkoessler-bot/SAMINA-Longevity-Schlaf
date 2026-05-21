@@ -309,13 +309,17 @@ SAMINA ist ein österreichisches Familienunternehmen, das seit 1989 zwei Bereich
 
 ### Das SAMINA Schlafsystem: dein nächtlicher Anti-Aging-Hebel
 
-Ein SAMINA Schlafsystem ist kein einfaches Bett, sondern ein vollständig aufeinander abgestimmtes System aus einem orthopädischen Lamellenrost, mehrlagigen Lagen aus Naturkautschuk und Schafschurwolle, einer Erdungsauflage, einem passenden Kissensortiment (abgestimmt auf die jeweilige Nacken-Kopflinie und Schlafposition für Bauch-, Rücken- und Seitenschläfer) und einem Sortiment an Bettdecken, ideal für jedes Schlafklima. Zudem integriert ein SAMINA Schlafsystem eine Schrägschlaftechnik, um die Durchblutung zu fördern und die Regeneration zu steigern. Das gesamte System wird in Vorarlberg in den österreichischen Alpen handgefertigt und ist konsequent metallfrei. Prof. Amann-Jennson hat darin über vier Jahrzehnte das Konzept des **Bioenergetischen Schlafs®** entwickelt — alle vier physikalischen Faktoren eines gesunden Schlafplatzes wissenschaftlich aufeinander abgestimmt.
+Ein SAMINA Schlafsystem ist kein einfaches Bett, sondern ein **5-Schichten-System**, das von Prof. Amann-Jennson über vier Jahrzehnte entwickelt wurde. Jede Schicht erfüllt eine eigene biologische Funktion, und alle Schichten sind aufeinander abgestimmt. Das gesamte System wird in Vorarlberg in den österreichischen Alpen handgefertigt, besteht ausschließlich aus Naturmaterialien (Schafschurwolle, Naturkautschuk in Vita-Talalay-Qualität, Bio-Baumwolle, Eschenholz) und ist konsequent metallfrei und schadstoffgeprüft.
 
-Konkret bewirkt ein SAMINA Schlafsystem vier Dinge:
-- **Orthopädisch richtig gelagerte Wirbelsäule** und individuell ausgerichtete Nacken-Kopf-Linie — ideal für Bauch-, Rücken- und Seitenschläfer.
-- **Optimale Durchblutung** durch echte Druckentlastung.
-- **Hohe Regeneration** durch integrierte Erdungs- und Schrägschlaftechnik.
-- **Ideales Bettklima** — ob du kühl oder warm schläfst.
+Die fünf aufeinander abgestimmten Schichten von oben nach unten:
+
+1. **Kissen und Nackenkissen** — individuelle Abstützung der Nacken-Kopf-Linie, abgestimmt auf Bauch-, Rücken- oder Seitenschläfer.
+2. **Decken und Schafschurwoll-Auflagen** — sorgen für ein perfektes Schlafklima in jeder Jahreszeit, kühl oder warm.
+3. **Naturkautschukmatratze (Vita Talalay)** — passt sich dem Körper an, entlastet Gelenke und fördert die Durchblutung.
+4. **Freischwingender Lamellenrost** — stützt Wirbelsäule und Bandscheiben in orthopädisch korrekter Lagerung.
+5. **Lokosana®-Erdungsauflage** — leitet Elektrostress ab, bringt den Körper in Balance und aktiviert die Regeneration. CE-zertifiziertes Medizinprodukt.
+
+Ergänzend integriert das System die **GRAVITAS®-Schrägschlaffunktion**: Eine sanfte 3,5°-Neigung fördert Lymphdrainage und Stoffwechsel im Schlaf und unterstützt damit genau die Mechanismen, die für Longevity zählen.
 
 → Alle Details, Konfigurationen und Beratungstermine auf **[samina.com](https://samina.com/)**.
 
