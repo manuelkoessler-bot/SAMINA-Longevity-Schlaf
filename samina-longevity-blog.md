@@ -1,6 +1,6 @@
 ---
 title: "Longevity beginnt im Schlaf: 90 % entscheiden sich nachts"
-description: "Longevity 2026: 90 % gesunden Alterns entscheiden sich nachts. Was die Schlafforschung sagt, was deinen Schlaf raubt und wie SAMINA Anti-Aging stärkt."
+description: "Longevity 2026: 90 % gesunden Alterns entscheiden sich nachts. Was die Schlafforschung sagt, was deinen Schlaf raubt und wie SAMINA deine Regeneration unterstützt."
 slug: longevity-beginnt-im-schlaf
 coverImage: "/frau-morgens.png"
 coverImageAlt: "Frau mit klaren Augen und ruhigem Gesicht im hellen Morgenlicht, Sinnbild für gesundes Altern und erholten Schlaf"
@@ -251,7 +251,7 @@ Wenn 90 % deiner Regeneration im Schlaf entstehen, lohnt die Frage, was sie verh
 <!-- [PERSONAL EXPERIENCE] -->
 Was wir aus 40 Jahren SAMINA-Schlafcoaching beobachten: Viele unserer Kund:innen kommen mit Schlafproblemen, an denen sie jahrelang gearbeitet haben. Diese Kund:innen haben Ernährung, Sport, Achtsamkeit, alles optimiert. Geblieben ist die müde Aufwach-Erfahrung. In neun von zehn Fällen liegt das Problem nicht im Verhalten, sondern in einem physikalisch unpassenden Schlafplatz.
 
-## 80 % entscheidet der Schlafplatz: Die unterschätzte Anti-Aging-Investition {#schlafplatz-80}
+## 80 % entscheidet der Schlafplatz: Die unterschätzte Longevity-Investition {#schlafplatz-80}
 
 Du verbringst 120 Tage pro Jahr im Bett. Das sind etwa ein Drittel deines Lebens. Trotzdem geben die meisten Menschen für ihre Liegefläche weniger aus als für ihr Auto, ihr Smartphone oder ihre nächste Urlaubsreise. Dabei läuft jede Nacht eine 8-Stunden-Behandlung. 365 mal pro Jahr.
 
@@ -292,7 +292,7 @@ Vier physikalische Faktoren entscheiden über die Qualität deines Schlafplatzes
 - **Bettklima**, also Wärme und Feuchtigkeitsregulation.
 - **Erdung** und Schutz vor elektromagnetischen Einflüssen.
 
-Wer hier sauber investiert, betreibt Anti-Aging im wörtlichsten Sinn. Nicht für eine Sitzung. Für 2.920 Stunden im Jahr.
+Wer hier sauber investiert, unterstützt seine nächtliche Regeneration über 2.920 Stunden im Jahr. Nicht punktuell. Über Jahrzehnte.
 
 <a href="https://samina.com/filialen/" class="cta-box cta-secondary">
   <img src="/filialleiter.png" alt="Persoenliches Schlafcoaching mit SAMINA Filialberater" />
@@ -307,7 +307,7 @@ Wer hier sauber investiert, betreibt Anti-Aging im wörtlichsten Sinn. Nicht fü
 
 SAMINA ist ein österreichisches Familienunternehmen, das seit 1989 zwei Bereiche miteinander verbindet: hochwertige **Schlafsysteme aus Naturmaterialien** und ein wachsendes Portfolio an **Longevity- und Recovery-Technologie**. Beides zielt auf dasselbe Prinzip: maximale Regeneration als Fundament für ein langes, gesundes Leben — nachts im Bett und tagsüber in der Filiale.
 
-### Das SAMINA Schlafsystem: dein nächtlicher Anti-Aging-Hebel
+### Das SAMINA Schlafsystem: dein nächtlicher Regenerations-Hebel
 
 Ein SAMINA Schlafsystem ist kein einfaches Bett, sondern ein **5-Schichten-System**, das von Prof. Amann-Jennson über vier Jahrzehnte entwickelt wurde. Jede Schicht erfüllt eine eigene biologische Funktion, und alle Schichten sind aufeinander abgestimmt. Das gesamte System wird in Vorarlberg in den österreichischen Alpen handgefertigt, besteht ausschließlich aus Naturmaterialien (Schafschurwolle, Naturkautschuk in Vita-Talalay-Qualität, Bio-Baumwolle, Eschenholz) und ist konsequent metallfrei und schadstoffgeprüft.
 
@@ -474,7 +474,7 @@ Du musst kein 200.000-Euro-Protokoll fahren. Du brauchst fünf Schlafgewohnheite
       "@type": "BlogPosting",
       "@id": "https://samina.com/longevity-beginnt-im-schlaf/#article",
       "headline": "Longevity beginnt im Schlaf: 90 % entscheiden sich nachts",
-      "description": "Longevity 2026: 90 % gesunden Alterns entscheiden sich nachts. Was die Schlafforschung sagt, was deinen Schlaf raubt und wie SAMINA Anti-Aging stärkt.",
+      "description": "Longevity 2026: 90 % gesunden Alterns entscheiden sich nachts. Was die Schlafforschung sagt, was deinen Schlaf raubt und wie SAMINA deine Regeneration unterstützt.",
       "image": "https://samina.com/frau-morgens.png",
       "datePublished": "2026-05-21",
       "dateModified": "2026-05-21",
