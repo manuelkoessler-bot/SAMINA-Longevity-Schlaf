@@ -365,37 +365,40 @@ Aus der Begleitung tausender SAMINA-Kund:innen beobachten wir: Wer drei dieser f
 
 ## Häufige Fragen zu Longevity und Schlaf {#faq}
 
-### Wie viel Tiefschlaf braucht man pro Nacht?
-
-Ein gesunder Erwachsener erreicht etwa **1,5 bis 2 Stunden Tiefschlaf**, was 15 bis 25 % der gesamten Schlafdauer entspricht. Vor allem in der ersten Nachthälfte erreichst du die tiefsten Stadien. Mit zunehmendem Alter sinkt der natürliche Tiefschlafanteil. Eine optimierte Liegefläche und Schrägschlaftechnik können diesen Anteil nach Beobachtungen aus der Schlafforschung unterstützen.
-
-### Wie viel Schlaf ist gesund?
-
-Die meisten Erwachsenen brauchen **7 bis 8 Stunden Schlaf pro Nacht**. Prof. Amann-Jennson nennt 7,5 Stunden als optimale Mitte. Wichtig ist nicht nur die Dauer, sondern auch die Qualität: leichtes Einschlafen, durchgehender Schlaf und erholtes Aufwachen. Wer dauerhaft unter 6 Stunden schläft, erhöht laut Studienlage das Risiko für Herz-Kreislauf- und Stoffwechselerkrankungen messbar.
-
-### Was ist Longevity überhaupt?
-
-Longevity bedeutet wörtlich **Langlebigkeit**. In der modernen Wissenschaft meint der Begriff allerdings nicht nur lange leben (Lifespan), sondern gesund alt werden (Healthspan). Ziel ist es, biologisch jung zu bleiben und chronischen Krankheiten möglichst spät und kurz zu begegnen.
-
-### Wie alt ist Bryan Johnson, und wie schläft er?
-
-**Bryan Johnson ist Jahrgang 1977**. Sein "Blueprint"-Protokoll umfasst rund 100 Maßnahmen pro Tag. Schlaf gehört zu den drei Säulen, neben Ernährung und Bewegung. Er schläft jede Nacht zur exakt selben Zeit, mehrere Stunden vor Mitternacht, in einem komplett dunklen, kühlen Raum. Seine eigenen Tracking-Daten zeigen, dass Schlaf für ihn der wichtigste Recovery-Faktor ist.
-
-### Hilft Schrägschlaf wirklich gegen Alterung?
-
-Nach Beobachtungen aus der Schrägschlaf-Forschung (u. a. Dr. Singer und Dr. Grismaijer, Andrew Fletcher, sowie Prof. Amann-Jennson) kann eine sanfte **Schräglage des Körpers von 3,5°** die nächtliche Mikrozirkulation und die Drainage des Gehirns unterstützen. Klinische Garantien gibt es dafür nicht. Studienergebnisse und Erfahrungsberichte weisen aber konsistent in dieselbe Richtung.
-
-### Wie alt kann der Mensch maximal werden?
-
-Die aktuelle biologische Obergrenze wird in der Wissenschaft bei etwa **120 bis 125 Jahren** verortet. Die nachgewiesen älteste Person war Jeanne Calment mit 122 Jahren. Realistisch erreichen heute in den Blue Zones überdurchschnittlich viele Menschen ein gesundes Alter über 100. Schlaf ist in allen fünf Blue Zones ein dokumentierter Schlüsselfaktor.
-
-### Was ist das glymphatische System?
-
-Das **glymphatische System** ist das Reinigungssystem des Gehirns. Während des Tiefschlafs erweitern sich die Zellzwischenräume, und Hirnflüssigkeit spült Stoffwechselabfälle wie Beta-Amyloid aus. Dieser Prozess läuft fast ausschließlich nachts. Chronische Tiefschlafdefizite werden in der Forschung mit erhöhtem Risiko für neurodegenerative Erkrankungen verbunden.
-
-### Was sind die Blue Zones?
-
-**Blue Zones** sind fünf Regionen weltweit, in denen überdurchschnittlich viele Menschen gesund 100 Jahre und älter werden: Okinawa (Japan), Sardinien (Italien), Ikaria (Griechenland), Nicoya (Costa Rica) und Loma Linda (Kalifornien). Gemeinsame Faktoren: pflanzenbasierte Ernährung, viel natürliche Bewegung, soziale Einbettung, klarer Tagesrhythmus und früher, regelmäßiger Schlaf.
+<div class="faq">
+<details>
+<summary>Wie viel Tiefschlaf braucht man pro Nacht?</summary>
+<div class="faq-answer"><p>Ein gesunder Erwachsener erreicht etwa <strong>1,5 bis 2 Stunden Tiefschlaf</strong>, was 15 bis 25 % der gesamten Schlafdauer entspricht. Vor allem in der ersten Nachthälfte erreichst du die tiefsten Stadien. Mit zunehmendem Alter sinkt der natürliche Tiefschlafanteil. Eine optimierte Liegefläche und Schrägschlaftechnik können diesen Anteil nach Beobachtungen aus der Schlafforschung unterstützen.</p></div>
+</details>
+<details>
+<summary>Wie viel Schlaf ist gesund?</summary>
+<div class="faq-answer"><p>Die meisten Erwachsenen brauchen <strong>7 bis 8 Stunden Schlaf pro Nacht</strong>. Prof. Amann-Jennson nennt 7,5 Stunden als optimale Mitte. Wichtig ist nicht nur die Dauer, sondern auch die Qualität: leichtes Einschlafen, durchgehender Schlaf und erholtes Aufwachen. Wer dauerhaft unter 6 Stunden schläft, erhöht laut Studienlage das Risiko für Herz-Kreislauf- und Stoffwechselerkrankungen messbar.</p></div>
+</details>
+<details>
+<summary>Was ist Longevity überhaupt?</summary>
+<div class="faq-answer"><p>Longevity bedeutet wörtlich <strong>Langlebigkeit</strong>. In der modernen Wissenschaft meint der Begriff allerdings nicht nur lange leben (Lifespan), sondern gesund alt werden (Healthspan). Ziel ist es, biologisch jung zu bleiben und chronischen Krankheiten möglichst spät und kurz zu begegnen.</p></div>
+</details>
+<details>
+<summary>Wie alt ist Bryan Johnson, und wie schläft er?</summary>
+<div class="faq-answer"><p><strong>Bryan Johnson ist Jahrgang 1977</strong>. Sein „Blueprint"-Protokoll umfasst rund 100 Maßnahmen pro Tag. Schlaf gehört zu den drei Säulen, neben Ernährung und Bewegung. Er schläft jede Nacht zur exakt selben Zeit, mehrere Stunden vor Mitternacht, in einem komplett dunklen, kühlen Raum. Seine eigenen Tracking-Daten zeigen, dass Schlaf für ihn der wichtigste Recovery-Faktor ist.</p></div>
+</details>
+<details>
+<summary>Hilft Schrägschlaf wirklich gegen Alterung?</summary>
+<div class="faq-answer"><p>Nach Beobachtungen aus der Schrägschlaf-Forschung (u. a. Dr. Singer und Dr. Grismaijer, Andrew Fletcher, sowie Prof. Amann-Jennson) kann eine sanfte <strong>Schräglage des Körpers von 3,5°</strong> die nächtliche Mikrozirkulation und die Drainage des Gehirns unterstützen. Klinische Garantien gibt es dafür nicht. Studienergebnisse und Erfahrungsberichte weisen aber konsistent in dieselbe Richtung.</p></div>
+</details>
+<details>
+<summary>Wie alt kann der Mensch maximal werden?</summary>
+<div class="faq-answer"><p>Die aktuelle biologische Obergrenze wird in der Wissenschaft bei etwa <strong>120 bis 125 Jahren</strong> verortet. Die nachgewiesen älteste Person war Jeanne Calment mit 122 Jahren. Realistisch erreichen heute in den Blue Zones überdurchschnittlich viele Menschen ein gesundes Alter über 100. Schlaf ist in allen fünf Blue Zones ein dokumentierter Schlüsselfaktor.</p></div>
+</details>
+<details>
+<summary>Was ist das glymphatische System?</summary>
+<div class="faq-answer"><p>Das <strong>glymphatische System</strong> ist das Reinigungssystem des Gehirns. Während des Tiefschlafs erweitern sich die Zellzwischenräume, und Hirnflüssigkeit spült Stoffwechselabfälle wie Beta-Amyloid aus. Dieser Prozess läuft fast ausschließlich nachts. Chronische Tiefschlafdefizite werden in der Forschung mit erhöhtem Risiko für neurodegenerative Erkrankungen verbunden.</p></div>
+</details>
+<details>
+<summary>Was sind die Blue Zones?</summary>
+<div class="faq-answer"><p><strong>Blue Zones</strong> sind fünf Regionen weltweit, in denen überdurchschnittlich viele Menschen gesund 100 Jahre und älter werden: Okinawa (Japan), Sardinien (Italien), Ikaria (Griechenland), Nicoya (Costa Rica) und Loma Linda (Kalifornien). Gemeinsame Faktoren: pflanzenbasierte Ernährung, viel natürliche Bewegung, soziale Einbettung, klarer Tagesrhythmus und früher, regelmäßiger Schlaf.</p></div>
+</details>
+</div>
 
 ## Fazit: Longevity. Shaped by Sleep. {#fazit}
 

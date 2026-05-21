@@ -175,6 +175,20 @@ cat > samina-longevity-blog.html <<HTML_HEAD
   .sources{font-size:0.86rem;color:var(--mute);line-height:1.55;margin:2rem 0;padding:1rem 1.25rem;background:#fafaf7;border-radius:6px;}
   .sources strong{color:var(--ink);}
 
+  /* FAQ — aufklappbar (native details/summary) */
+  .faq{margin:1.5rem 0 2rem;}
+  .faq details{border-bottom:1px solid var(--light-border);}
+  .faq details:first-of-type{border-top:1px solid var(--light-border);}
+  .faq summary{padding:1.15rem 0;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;font-weight:500;font-size:1.02rem;color:var(--ink);transition:color 0.15s;gap:1rem;}
+  .faq summary::-webkit-details-marker{display:none;}
+  .faq summary::after{content:"";display:inline-block;width:9px;height:9px;border-right:2px solid #888;border-bottom:2px solid #888;transform:rotate(45deg);transition:transform 0.2s ease;flex:0 0 9px;margin-bottom:2px;}
+  .faq details[open] summary::after{transform:rotate(-135deg);margin-top:4px;margin-bottom:0;border-color:var(--green);}
+  .faq summary:hover{color:var(--green);}
+  .faq details[open] summary{color:var(--green);font-weight:600;}
+  .faq .faq-answer{padding:0 0 1.4rem;font-size:1rem;color:#333;line-height:1.65;}
+  .faq .faq-answer p{margin:0 0 0.7rem;}
+  .faq .faq-answer p:last-child{margin-bottom:0;}
+
   /* Post navigation */
   .post-navigation{margin:3rem 0 1rem;padding:1.5rem 0;border-top:1px solid var(--light-border);border-bottom:1px solid var(--light-border);}
   .post-navigation .nav-heading{margin:0 0 0.75rem;font-size:0.88rem;color:var(--mute);text-transform:uppercase;letter-spacing:0.04em;}
