@@ -257,24 +257,50 @@ Wer hier sauber investiert, betreibt Anti-Aging im wörtlichsten Sinn. Nicht fü
   <span class="cta-arrow">→</span>
 </a>
 
-## Warum SAMINA: Longevity-Technologie seit 1989 {#warum-samina}
+## Warum SAMINA? Schlafsysteme und Longevity-Technologie seit 1989 {#warum-samina}
 
-SAMINA ist ein österreichisches Familienunternehmen, das seit 1989 **vollständige Schlafsysteme aus Naturmaterialien** entwickelt und herstellt — bestehend aus orthopädischem Lattenrost, mehrlagiger Naturmatratze, Schurwoll-Auflagen, Nackenstützkissen und Bio-Bettdecken. Das gesamte System wird in Vorarlberg in den österreichischen Alpen handgefertigt und ist konsequent metallfrei.
+SAMINA ist ein österreichisches Familienunternehmen, das seit 1989 zwei Bereiche miteinander verbindet: hochwertige **Schlafsysteme aus Naturmaterialien** und ein wachsendes Portfolio an **Longevity- und Recovery-Technologie**. Beides zielt auf dasselbe Prinzip: maximale Regeneration als Fundament für ein langes, gesundes Leben — nachts im Bett und tagsüber in der Filiale.
 
-Was SAMINA von klassischen Bettenherstellern unterscheidet: Über vier Jahrzehnte hat Prof. Amann-Jennson mit dem Konzept des **Bioenergetischen Schlafs®** alle vier physikalischen Faktoren eines gesunden Schlafplatzes wissenschaftlich aufeinander abgestimmt. Es geht nicht darum, eine Matratze zu verkaufen, sondern ein komplettes Schlafsystem, das nachweislich die nächtliche Regeneration verbessert.
+### Das SAMINA Schlafsystem: dein nächtlicher Anti-Aging-Hebel
+
+Ein SAMINA Schlafsystem ist kein einzelnes Möbelstück, sondern ein vollständig aufeinander abgestimmtes System aus orthopädischem Rahmen, mehrlagiger Naturmatratze, Erdungsauflage, Nackenstützkissen und Bio-Bettdecken. Das gesamte System wird in Vorarlberg in den österreichischen Alpen handgefertigt und ist konsequent metallfrei. Prof. Amann-Jennson hat darin über vier Jahrzehnte das Konzept des **Bioenergetischen Schlafs®** entwickelt — alle vier physikalischen Faktoren eines gesunden Schlafplatzes wissenschaftlich aufeinander abgestimmt.
 
 Konkret besteht ein SAMINA Schlafsystem aus diesen Komponenten:
 - **Orthopädischer Federholzrahmen** mit individuell einstellbarer Nacken-Kopf-Linie, geeignet für Rücken-, Seiten- und Bauchschläfer — ohne Metall.
 - **Mehrlagige Naturmatratze** aus Naturkautschuk und Schurwolle für echte Druckentlastung statt Punktstützen.
 - **Lokosana®-Erdungsauflage**, ein CE-zertifiziertes Medizinprodukt, das den Körper sanft mit dem Erdpotenzial verbindet.
 - **Gravitas®-Schrägschlaftechnik** mit sanfter 3,5°-Neigung zur Unterstützung der nächtlichen Mikrozirkulation und der Gehirn-Drainage.
-- **Naturmaterialien** (Schurwolle, Naturkautschuk, Zirbenholz) — ohne Metallfedern, ohne synthetische Schäume, in Vorarlberg in den österreichischen Alpen handgefertigt.
+- **Naturmaterialien** (Schurwolle, Naturkautschuk, Zirbenholz) — ohne Metallfedern, ohne synthetische Schäume, handgefertigt in Vorarlberg.
+
+→ Alle Details, Konfigurationen und Beratungstermine auf **[samina.com](https://samina.com/)**.
+
+### SAMINA Recovery: Longevity-Technologie in der Filiale
+
+Was nachts im Bett beginnt, lässt sich tagsüber gezielt verstärken. In den SAMINA Filialen findest du unter der Marke **SAMINA Recovery** neun aufeinander abgestimmte Anwendungen aus der modernen Longevity-Forschung — die größte Bandbreite an Recovery-Technologie im DACH-Raum unter einem Dach:
+
+| Modul | Anwendung | Wirkmechanismus |
+|---|---|---|
+| **COOL** | Kältekammer / Kryotherapie | Aktiviert Stoffwechsel, reduziert Entzündung |
+| **CHARGE** | Nah-Infrarot-Rotlicht (NIRF) | Stimuliert Zellenergie (ATP), beschleunigt Regeneration |
+| **TRANSFORM** | Massagesessel mit Licht- und Klangimpulsen | Tiefe Neuro-Relaxation, Parasympathikus-Aktivierung |
+| **FLOW** | Wechseldruck-Massage | Lymphdrainage, Mikrozirkulation, Sport-Recovery |
+| **BOOST** | IHHT-Sauerstofftraining | Höhentraining-Effekt, Mitochondrien-Aktivierung |
+| **MOVE** | Faszientraining | Mobilität, Beweglichkeit, Schmerzreduktion |
+| **BODYSCAN** | 3D-Körperanalyse | Misst sichtbare Veränderungen über Zeit |
+| **HRV** | Herzratenvariabilitäts-Messung | Biofeedback zu Stressregulation und Erholung |
+| **COLD PLASMA** *(NEU)* | „Full Body Charger" (exklusiv in Frastanz) | Energetische Zellaufladung |
+
+Die Module sind so konzipiert, dass sie sich kombinieren lassen. Wer regelmäßig in der Filiale trainiert und nachts auf einem SAMINA Schlafsystem regeneriert, deckt damit beide Hebel ab — den größten (Schlaf) und seine tägliche Verstärkung.
+
+→ Alle Anwendungen, Standorte und Termine auf **[samina-recovery.com](https://samina-recovery.com/)**.
+
+### Die Karl-Hecht-Geschichte: 10 Jahre durch konsequenten Schlaf
 
 Im Buch *Einfach gesund schlafen* berichtet Prof. Amann-Jennson von Prof. Karl Hecht, seinem langjährigen Wissenschaftspartner. Hecht nutzte über Jahrzehnte das SAMINA Schlaf-Gesund-Konzept und schlief geerdet und schräg. An seinem 90. Geburtstag lud er alle Gäste zu seinem 100. ein. Seine persönliche Hochrechnung über den Effekt seiner nächtlichen Routine: rund 10 Jahre Lebensverlängerung gegenüber dem statistischen Schnitt. Hecht erreichte tatsächlich ein Alter von 98 Jahren, bevor er nach einem Unfall verstarb.
 
-> **Wichtig zur Einordnung:** Diese Aussage ist eine persönliche Hochrechnung von Prof. Hecht aus eigener Beobachtung und keine klinische Garantie. Diese Hochrechnung illustriert die Größenordnung, in der erfahrene Forscher den Effekt eines optimierten Schlafplatzes verorten.
+> **Wichtig zur Einordnung:** Diese Hochrechnung von Prof. Hecht beruht auf eigener Beobachtung und ist keine klinische Garantie. Sie illustriert die Größenordnung, in der erfahrene Forscher den Effekt eines optimierten Schlafplatzes verorten.
 
-SAMINA versteht sich daher nicht als Bettenfirma, sondern als Longevity-Technologie-Anbieter im DACH-Raum. First Mover, seit 1989.
+SAMINA versteht sich daher nicht als Bettenfirma allein, sondern als ganzheitlicher Longevity-Anbieter im DACH-Raum: Bett-System für die Nacht, Recovery-Technologie für den Tag. First Mover, seit 1989.
 
 ## Dein 5-Punkte-Longevity-Schlafplan {#schlafplan}
 
