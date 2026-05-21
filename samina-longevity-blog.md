@@ -51,17 +51,17 @@ Schlafforscher haben dazu eine klare Antwort. Prof. W. C. Dement, der Vater der 
 
 <nav class="toc" aria-label="Inhaltsverzeichnis">
   <ol>
-    <li><a href="#was-ist-longevity">Was ist Longevity, und warum reicht "lange leben" nicht?</a></li>
+    <li><a href="#was-ist-longevity">Was ist Longevity, und warum reicht „lange leben" nicht?</a></li>
     <li><a href="#schlaf-groesster-hebel">Warum Schlaf der größte Longevity-Hebel ist</a></li>
-    <li><a href="#longevity-stars">Bryan Johnson, Blue Zones und Huberman</a></li>
-    <li><a href="#fuenf-faktoren">Was guten Schlaf auszeichnet: Die 5-Faktoren-Formel</a></li>
+    <li><a href="#longevity-stars">Bryan Johnson, Blue Zones und Huberman: Was die Longevity-Stars gemeinsam haben</a></li>
+    <li><a href="#fuenf-faktoren">Was guten Schlaf wirklich auszeichnet: Die 5-Faktoren-Formel</a></li>
     <li><a href="#tiefschlaf-rem">Tiefschlaf, REM und das glymphatische System</a></li>
     <li><a href="#schlaf-raub">Was guten Schlaf wirklich raubt</a></li>
-    <li><a href="#schlafplatz-80">80 % entscheidet der Schlafplatz</a></li>
-    <li><a href="#warum-samina">Warum SAMINA: Longevity-Technologie seit 1989</a></li>
+    <li><a href="#schlafplatz-80">80 % entscheidet der Schlafplatz: Die unterschätzte Longevity-Investition</a></li>
+    <li><a href="#warum-samina">Warum SAMINA? Schlafsysteme und Longevity-Technologie seit 1989</a></li>
     <li><a href="#schlafplan">Dein 5-Punkte-Longevity-Schlafplan</a></li>
-    <li><a href="#faq">Häufige Fragen</a></li>
-    <li><a href="#fazit">Fazit</a></li>
+    <li><a href="#faq">Häufige Fragen zu Longevity und Schlaf</a></li>
+    <li><a href="#fazit">Fazit: Longevity. Shaped by Sleep.</a></li>
   </ol>
 </nav>
 
