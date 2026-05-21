@@ -137,27 +137,73 @@ Die fünf Faktoren sind verblüffend einfach:
 | 4 | **Aufwachen** | Erholt und ausgeruht, an mindestens 5 von 7 Tagen |
 | 5 | **Schlafmittel** | Konsequenter Verzicht zum Einschlafen |
 
-<figure role="img" aria-label="Lollipop-Diagramm: Wer alle fünf Schlafgewohnheiten erfüllt, gewinnt 4,7 Jahre Lebenserwartung als Mann, 2,4 Jahre als Frau und reduziert die Gesamtmortalität um 30 Prozent" style="margin:2.5rem 0;text-align:center;">
-  <svg viewBox="0 0 600 320" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto;background:transparent;font-family:system-ui,-apple-system,sans-serif;">
-    <title>Auswirkung der 5 Schlafgewohnheiten auf die Lebenserwartung</title>
-    <text x="20" y="30" font-size="15" font-weight="700" fill="#1a1a1a">Was die fünf gesunden Schlafgewohnheiten bewirken</text>
-    <text x="20" y="50" font-size="12" fill="#666">N = 172.321 Erwachsene, US-Kohortenstudie unter Beteiligung der Harvard Medical School</text>
-    <line x1="160" y1="80" x2="160" y2="280" stroke="#cfc9bc" stroke-width="1" stroke-dasharray="4,4"/>
-    <line x1="160" y1="120" x2="430" y2="120" stroke="#4a7c5e" stroke-width="3"/>
-    <circle cx="430" cy="120" r="14" fill="#2d5a3d"/>
-    <text x="20" y="125" font-size="13" fill="#1a1a1a">Männer Lebenserwartung</text>
-    <text x="460" y="125" font-size="14" font-weight="700" fill="#2d5a3d">+ 4,7 Jahre</text>
-    <line x1="160" y1="175" x2="320" y2="175" stroke="#4a7c5e" stroke-width="3"/>
-    <circle cx="320" cy="175" r="14" fill="#2d5a3d"/>
-    <text x="20" y="180" font-size="13" fill="#1a1a1a">Frauen Lebenserwartung</text>
-    <text x="460" y="180" font-size="14" font-weight="700" fill="#2d5a3d">+ 2,4 Jahre</text>
-    <line x1="160" y1="230" x2="490" y2="230" stroke="#7a3e3e" stroke-width="3"/>
-    <circle cx="490" cy="230" r="14" fill="#5a2929"/>
-    <text x="20" y="235" font-size="13" fill="#1a1a1a">Gesamtmortalität</text>
-    <text x="460" y="235" font-size="14" font-weight="700" fill="#5a2929"> − 30 %</text>
-    <text x="300" y="305" text-anchor="middle" font-size="11" fill="#888">Quelle: American College of Cardiology, präsentiert 2023</text>
+<figure role="img" aria-label="Drei Stat-Tiles: Wer alle fünf gesunden Schlafgewohnheiten erfüllt, gewinnt als Mann 4,7 Jahre Lebenserwartung, als Frau 2,4 Jahre und reduziert die Gesamtmortalität um 30 Prozent" style="margin:2.5rem 0;text-align:center;">
+  <svg viewBox="0 0 720 360" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto;background:transparent;font-family:system-ui,-apple-system,sans-serif;">
+    <title>Auswirkung der fünf gesunden Schlafgewohnheiten</title>
+    <defs>
+      <linearGradient id="tileGreen" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#2d5a3d" stop-opacity="0.06"/>
+        <stop offset="100%" stop-color="#2d5a3d" stop-opacity="0.02"/>
+      </linearGradient>
+      <linearGradient id="tileRed" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#7a3e3e" stop-opacity="0.06"/>
+        <stop offset="100%" stop-color="#7a3e3e" stop-opacity="0.02"/>
+      </linearGradient>
+    </defs>
+
+    <text x="20" y="32" font-size="16" font-weight="700" fill="#1a1a1a">Was die fünf gesunden Schlafgewohnheiten bewirken</text>
+    <text x="20" y="54" font-size="12" fill="#666">N = 172.321 Erwachsene · US-Kohortenstudie unter Beteiligung der Harvard Medical School (ACC 2023)</text>
+
+    <!-- Tile 1: Männer -->
+    <g transform="translate(20,90)">
+      <rect width="216" height="220" rx="14" fill="url(#tileGreen)" stroke="#2d5a3d" stroke-opacity="0.18" stroke-width="1.5"/>
+      <text x="108" y="38" text-anchor="middle" font-size="11" font-weight="600" letter-spacing="0.08em" fill="#2d5a3d">MÄNNER</text>
+      <text x="108" y="62" text-anchor="middle" font-size="11" fill="#666">Lebenserwartung</text>
+      <g transform="translate(108,120)" text-anchor="middle">
+        <text font-size="54" font-weight="800" fill="#2d5a3d" letter-spacing="-0.02em">+4,7</text>
+      </g>
+      <text x="108" y="158" text-anchor="middle" font-size="14" font-weight="600" fill="#2d5a3d">Jahre</text>
+      <!-- arrow up -->
+      <g transform="translate(108,182)">
+        <path d="M0,12 L0,-12 M-7,-5 L0,-12 L7,-5" stroke="#2d5a3d" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <text x="108" y="210" text-anchor="middle" font-size="10" fill="#888">gegenüber Studienmittel</text>
+    </g>
+
+    <!-- Tile 2: Frauen -->
+    <g transform="translate(252,90)">
+      <rect width="216" height="220" rx="14" fill="url(#tileGreen)" stroke="#2d5a3d" stroke-opacity="0.18" stroke-width="1.5"/>
+      <text x="108" y="38" text-anchor="middle" font-size="11" font-weight="600" letter-spacing="0.08em" fill="#2d5a3d">FRAUEN</text>
+      <text x="108" y="62" text-anchor="middle" font-size="11" fill="#666">Lebenserwartung</text>
+      <g transform="translate(108,120)" text-anchor="middle">
+        <text font-size="54" font-weight="800" fill="#2d5a3d" letter-spacing="-0.02em">+2,4</text>
+      </g>
+      <text x="108" y="158" text-anchor="middle" font-size="14" font-weight="600" fill="#2d5a3d">Jahre</text>
+      <g transform="translate(108,182)">
+        <path d="M0,12 L0,-12 M-7,-5 L0,-12 L7,-5" stroke="#2d5a3d" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <text x="108" y="210" text-anchor="middle" font-size="10" fill="#888">gegenüber Studienmittel</text>
+    </g>
+
+    <!-- Tile 3: Mortalität -->
+    <g transform="translate(484,90)">
+      <rect width="216" height="220" rx="14" fill="url(#tileRed)" stroke="#7a3e3e" stroke-opacity="0.20" stroke-width="1.5"/>
+      <text x="108" y="38" text-anchor="middle" font-size="11" font-weight="600" letter-spacing="0.08em" fill="#7a3e3e">GESAMT-MORTALITÄT</text>
+      <text x="108" y="62" text-anchor="middle" font-size="11" fill="#666">Sterberisiko</text>
+      <g transform="translate(108,120)" text-anchor="middle">
+        <text font-size="54" font-weight="800" fill="#7a3e3e" letter-spacing="-0.02em">−30</text>
+      </g>
+      <text x="108" y="158" text-anchor="middle" font-size="14" font-weight="600" fill="#7a3e3e">Prozent</text>
+      <!-- arrow down -->
+      <g transform="translate(108,182)">
+        <path d="M0,-12 L0,12 M-7,5 L0,12 L7,5" stroke="#7a3e3e" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <text x="108" y="210" text-anchor="middle" font-size="10" fill="#888">über alle Altersgruppen</text>
+    </g>
+
+    <text x="360" y="345" text-anchor="middle" font-size="11" fill="#888">Quelle: Li et al., JACC 2023 · American College of Cardiology Annual Scientific Session 2023</text>
   </svg>
-  <figcaption style="font-size:0.9rem;color:#666;margin-top:0.5rem;">Studienlage: Wer alle fünf Schlafgewohnheiten konsequent erfüllt, verlängert seine statistische Lebenserwartung deutlich. Quelle: ACC-Studie, 2023.</figcaption>
+  <figcaption style="font-size:0.9rem;color:#666;margin-top:0.75rem;">Studienlage: Wer alle fünf Schlafgewohnheiten konsequent erfüllt, verlängert die statistische Lebenserwartung deutlich und senkt das Sterberisiko um nahezu ein Drittel. Quelle: ACC-Studie, 2023.</figcaption>
 </figure>
 
 Kein Punkt davon ist exotisch. Keiner kostet Geld. Trotzdem erfüllt nach den Studiendaten nur ein Bruchteil der Erwachsenen alle fünf gleichzeitig. Das ist nicht nur eine traurige Zahl, das ist auch eine riesige Chance. Wer hier nachzieht, kann nach diesen Untersuchungen mit messbarer Wirkung rechnen.
